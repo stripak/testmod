@@ -1,1 +1,1 @@
-module github.com/stripak/testmod
+module github.com/stripak/testmod/v2
